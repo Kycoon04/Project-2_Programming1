@@ -1,8 +1,0 @@
-﻿  Metodos.cpp
-C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2\Mapas de consulta\Metodos.cpp(64,22): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
-C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2\Mapas de consulta\Metodos.cpp(65,23): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
-C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2\Mapas de consulta\Metodos.cpp(307,22): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
-C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2\Mapas de consulta\Metodos.cpp(308,23): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
-C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2\Mapas de consulta\Metodos.cpp(435,22): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
-C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2\Mapas de consulta\Metodos.cpp(436,23): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
-  Mapas de consulta.vcxproj -> C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2\Mapas de consulta\x64\Debug\Mapas de consulta.exe
