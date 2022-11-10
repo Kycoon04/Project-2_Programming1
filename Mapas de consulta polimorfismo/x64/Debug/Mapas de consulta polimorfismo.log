@@ -1,0 +1,8 @@
+﻿  Metodos.cpp
+C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2.2\Mapas de consulta polimorfismo\Metodos.cpp(364,22): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2.2\Mapas de consulta polimorfismo\Metodos.cpp(365,23): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2.2\Mapas de consulta polimorfismo\Metodos.cpp(444,22): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2.2\Mapas de consulta polimorfismo\Metodos.cpp(445,23): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2.2\Mapas de consulta polimorfismo\Metodos.cpp(550,22): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2.2\Mapas de consulta polimorfismo\Metodos.cpp(551,23): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Mapas de consulta polimorfismo.vcxproj -> C:\Users\Asus\OneDrive\Documentos\Información Personal\Universidad\II Semestre\Programación l\Proyecto #2.2\Mapas de consulta polimorfismo\x64\Debug\Mapas de consulta polimorfismo.exe
